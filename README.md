@@ -1,7 +1,5 @@
 ## FastHTML with Multipages
 
-Here are some badges that provide quick information about the project:
-
 ![Static Badge](https://img.shields.io/badge/Youtube-Tutorial-red)
 ![Static Badge](https://img.shields.io/badge/FastHTML--green)
 ![Static Badge](https://img.shields.io/badge/Python-Tribe-blue)
